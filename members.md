@@ -64,7 +64,7 @@ With a background in neuroendocrinology, I've investigated aspects of anxiety an
 
 <tr>
 <td width="120">
-    <img src="img/kira_lampert.jpg" alt="Kira Lampert" class="fleft" style="width: 100px">
+    <img src="img/kira_lampert.jpeg" alt="Kira Lampert" class="fleft" style="width: 100px">
 </td>
 <td>
 <p>
