@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Home](./index.md).
+[Home](./index.md)
 
 
 	

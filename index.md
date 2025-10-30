@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Members](./members.md).
-[Alumni](./alumni.md).
+[Members](./members.md) |
+[Alumni](./alumni.md)
 
 
 # About
